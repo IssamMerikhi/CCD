@@ -1,6 +1,9 @@
 # World Climate Change Dashboard (University Project WS20/21) 
 ## Dashboard tackling environmental issue awareness around the globe
 
+<img src ="assets/banner2.png" width = "auto" height = "auto">
+
+
 ### Install requirements
 Easily install requirements in the local project directory with
 `pip install -r requirements.txt`
