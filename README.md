@@ -1,7 +1,7 @@
 # World Climate Change Dashboard (University Project WS20/21) 
 ## Dashboard tackling environmental issue awareness around the globe
 
-<img src ="assets/banner2.png" width = "auto" height = "auto">
+<img src ="./ccd.png" width = "auto" height = "auto">
 
 
 ### Install requirements
